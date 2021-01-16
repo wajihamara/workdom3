@@ -1,0 +1,78 @@
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky;
+    /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.shop{
+    width: 100%;
+}
+.position{
+    margin-left: 250px;
+    background-color: #353a40;
+    width:70%
+}
+h1{
+    color:white;
+}
+.lot1{
+    display: flex;
+    border-style: solid;
+}
+
+
+.parfum{
+    padding-left: 150px;
+}
+
+.basket {
+    padding-left: 300px;
+}
+
+.veste {
+    padding-left: 300px;
+}
+
+
+.cal{
+    padding-top: 230px;
+    ;
+}
+h3{
+    padding-right: 100px;
+    padding-top:210px ;
+}
+h2{
+    padding-top:210px ;
+    padding-left:80px ;
+}
+
